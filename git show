@@ -1,0 +1,22 @@
+[33mcommit ac7c0972deebb1fa107ba6b660e8545d73f5d6b2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Mosalman <jickhirisalmankhan22@gmail.com>
+Date:   Thu Mar 6 23:08:46 2025 +0530
+
+    Revert "this is my first project whatsapp clone"
+    
+    This reverts commit 59d19c3581143139ed51327c99f47644605fd40c.
+    
+    # Conflicts:
+    #       app/src/main/java/com/example/whatsapp/MainActivity.java
+
+[33mcommit 1c248986dbbcf27e27da210ea30c86b56b711df9[m[33m ([m[1;33mtag: [m[1;33mv1.0.0[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Mosalman <jickhirisalmankhan22@gmail.com>
+Date:   Thu Mar 6 22:14:18 2025 +0530
+
+    this is my first project whatsapp clone and second commit
+
+[33mcommit 59d19c3581143139ed51327c99f47644605fd40c[m
+Author: Mosalman <jickhirisalmankhan22@gmail.com>
+Date:   Thu Mar 6 22:01:21 2025 +0530
+
+    this is my first project whatsapp clone
